@@ -1,3 +1,11 @@
 ---
 layout: style
 ---
+
+/* Custom CSS Entered Here */
+
+img.logo
+{
+    height: 50px;
+}
+
