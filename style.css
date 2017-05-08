@@ -4,6 +4,8 @@ layout: style
 
 /* Custom CSS Entered Here */
 
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+
 img.logo
 {
     height: 50px;

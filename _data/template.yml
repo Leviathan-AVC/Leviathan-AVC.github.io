@@ -8,4 +8,4 @@ color:
 # Font Families
 font:
   primary: 'Lato, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  secondary: 'Raleway, "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
