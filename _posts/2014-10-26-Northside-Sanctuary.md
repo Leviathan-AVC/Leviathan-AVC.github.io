@@ -1,6 +1,6 @@
 ---
-title: Northside Campus Sanctuary
-subtitle: Audio, Video, and Lighting System Design
+title: Northside Campus
+subtitle: System Design
 layout: default
 modal-id: 1
 date: 2014-10-26
