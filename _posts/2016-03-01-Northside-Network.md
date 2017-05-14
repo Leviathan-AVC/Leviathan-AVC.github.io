@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2016-03-01
 img: nm2.jpg
-thumbnail: nm3.jpg
+thumbnail: network.jpg
 alt: image-alt
 project-date: March 2016
 client: Atlee Church
