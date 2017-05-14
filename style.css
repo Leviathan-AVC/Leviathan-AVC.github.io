@@ -25,3 +25,7 @@ img.logo
 #about > div.container > div.row > div.col-sm-4 {
     width: 100%;
 }
+
+div.portfolio-hover {
+  height: 345px;
+}
