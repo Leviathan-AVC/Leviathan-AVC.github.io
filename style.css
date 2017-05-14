@@ -12,3 +12,7 @@ img.logo
     margin-top: -15px;
 }
 
+
+.team-member img {
+    max-width: 300px;
+}
