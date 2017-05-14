@@ -76,32 +76,30 @@
                     </ul>
                 </div>
 </div> -->
-          <div class="container">
-            <div class="row">
-              {% for member in site.people %}
-              <div class="col-sm-4">
-                <div class="team-member">
-          	<img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
-          	<h4>{{ member.name }}</h4>
-          	<p class="text-muted">{{ member.position }}</p>
-          	<ul class="list-inline social-buttons">
-          	  {% for network in member.social %}
-          	  <li>
-          	    <a href="{{ network.url }}">
-          	      <i class="fa fa-{{ network.title }}"></i>
-          	    </a>
-          	  </li>
-          	  {% endfor %}
+          <div class="row">
+            {% for member in site.people %}
+            <div class="col-sm-4">
+              <div class="team-member">
+        	<img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+        	<h4>{{ member.name }}</h4>
+        	<p class="text-muted">{{ member.position }}</p>
+        	<ul class="list-inline social-buttons">
+        	  {% for network in member.social %}
+        	  <li>
+        	    <a href="{{ network.url }}">
+        	      <i class="fa fa-{{ network.title }}"></i>
+        	    </a>
+        	  </li>
+        	  {% endfor %}
 
-          	</ul>
-                </div>
+        	</ul>
               </div>
-              {% endfor %}
             </div>
-            <div class="row">
-              <div class="col-lg-8 col-lg-offset-2 text-center">
-                <p class="large text-muted">Part of what makes Leviathan-AVC unique is that we build relationships first.  These relationships are both with our clients, but also a network of artists, technicians, and people with other abilities that allow us to work with you to find the people you need to get a job done.  Our experiences in a wide range of fields has had us working with artists all over the world with unique talents that would love to work with us and you to accomplish your needs.</p>
-              </div>
+            {% endfor %}
+          </div>
+          <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+              <p class="large text-muted">Part of what makes Leviathan-AVC unique is that we build relationships first.  These relationships are both with our clients, but also a network of artists, technicians, and people with other abilities that allow us to work with you to find the people you need to get a job done.  Our experiences in a wide range of fields has had us working with artists all over the world with unique talents that would love to work with us and you to accomplish your needs.</p>
             </div>
           </div>
         </div>
