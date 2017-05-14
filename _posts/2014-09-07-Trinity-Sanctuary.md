@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2014-09-07
 img: tumc1.jpg
-thumbnail: tumc2.jpg
+thumbnail: tumc2_thumb.jpg
 alt: Trinity United Methodist Church Sanctuary
 project-date: September 2014
 client: Trinity United Methodist Church

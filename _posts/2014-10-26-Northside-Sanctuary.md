@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2014-10-26
 img: nm1.jpg
-thumbnail: nm1.jpg
+thumbnail: nm1_thumb.jpg
 alt: Atlee Church Northside Campus
 project-date: November 2014
 client: Atlee Church
