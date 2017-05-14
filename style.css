@@ -17,11 +17,11 @@ img.logo
     width: 220px;
 }
 
-#team > div.container > div.row{
+#about > div.container > div.row{
     text-align: center;
 }
 
 /* Inserted when I took the team down to one person instead of the default 3 of the theme  */
-#team > div.container > div.row > div.col-sm-4 {
+#about > div.container > div.row > div.col-sm-4 {
     width: 100%;
 }
