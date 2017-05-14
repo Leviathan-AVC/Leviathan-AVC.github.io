@@ -16,3 +16,7 @@ img.logo
 .team-member img {
     width: 220px;
 }
+
+#team > div.row{
+    text-align: center;
+}
