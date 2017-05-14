@@ -21,3 +21,7 @@ img.logo
     text-align: center;
 }
 
+@media (min-wdith: 768px)
+#team > div.container > div.row > div.col-sm-4 {
+    width: 100%;
+}
