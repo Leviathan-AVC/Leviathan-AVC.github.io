@@ -1,6 +1,6 @@
 ---
-title: Atlee Northside Campus Network Upgrades
-subtitle: Northside Network
+title: Northside Network
+subtitle: IT Consulting
 layout: default
 modal-id: 3
 date: 2016-03-01
